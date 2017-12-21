@@ -18,11 +18,17 @@
 
     <!-- Name for places for Eat -->
     <string name="eat_name_grelha_do_carmo">Grelha Do Carmo</string>
+    <string name="eat_name_time_out_market_lisboa">TimeOut Market Lisboa</string>
+    <string name="eat_name_marisqueira_azul">Marisqueira AZUL</string>
 
     <!-- Short Description for places for Eat -->
     <string name="eat_sd_grelha_do_carmo">Portuguese food and seafood.</string>
+    <string name="eat_sd_time_out_market_lisboa">An original concept that creates food and cultural experiences based on editorial curation.</string>
+    <string name="eat_sd_marisqueira_azul">Serving fresh shellfish and offering ice-cold draught beer.</string>
 
     <!-- Website for places for Eat -->
     <string name="eat_web_grelha_do_carmo">https://www.facebook.com/grelhadocarmo/</string>
+    <string name="eat_web_time_out_market_lisboa">https://www.timeoutmarket.com/lisboa/</string>
+    <string name="eat_web_marisqueira_azul">https://www.facebook.com/marisqueiraazul/</string>
 
 </resources>
