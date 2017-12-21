@@ -26,7 +26,7 @@ public class SeeFragment extends Fragment {
         //Create an array list of places.
         ArrayList<Place> places = new ArrayList<Place>();
 
-        places.add(new Place(R.string.see_name_chain_bridge, R.string.see_sd_chain_bridge, R.string.see_web_chain_bridge, R.drawable.praca_do_comercio));
+        places.add(new Place(R.string.see_name_praca_do_comercio, R.string.see_sd_praca_do_comercio, R.string.see_web_praca_do_comercio, R.drawable.praca_do_comercio));
 
         /**
          * Create a PlaceAdapter, whose data source is a list of Places.

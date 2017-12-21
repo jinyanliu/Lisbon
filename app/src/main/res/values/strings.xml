@@ -8,12 +8,21 @@
     <string name="category_eat">Eat</string>
 
     <!-- Name for places for See -->
-    <string name="see_name_chain_bridge">Chain Bridge</string>
+    <string name="see_name_praca_do_comercio">Praça do Comércio</string>
 
     <!-- Short Description for places for See -->
-    <string name="see_sd_chain_bridge">Spans the River Danube between Buda and Pest, the western and eastern sides.</string>
+    <string name="see_sd_praca_do_comercio">The Square of Commerce, to indicate its new function in the economy of Lisbon.</string>
 
     <!-- Website for places for See -->
-    <string name="see_web_chain_bridge">https://en.wikipedia.org/wiki/Chain_Bridge_(Budapest)</string>
+    <string name="see_web_praca_do_comercio">https://en.wikipedia.org/wiki/Praça_do_Comércio</string>
+
+    <!-- Name for places for Eat -->
+    <string name="eat_name_grelha_do_carmo">Grelha Do Carmo</string>
+
+    <!-- Short Description for places for Eat -->
+    <string name="eat_sd_grelha_do_carmo">Portuguese food and seafood.</string>
+
+    <!-- Website for places for Eat -->
+    <string name="eat_web_grelha_do_carmo">https://www.facebook.com/grelhadocarmo/</string>
 
 </resources>
