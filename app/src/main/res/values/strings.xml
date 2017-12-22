@@ -46,4 +46,13 @@
     <string name="eat_web_mr_lin">https://www.facebook.com/Mr-Lin-720818254724936/</string>
     <string name="eat_web_the_old_house">http://www.theoldhouseportugal.pt/</string>
 
+    <!-- Name for places for Cafe -->
+    <string name="cafe_name_pasteis_de_belem">Pastéis de Belém</string>
+
+    <!-- Short Description for places for Cafe -->
+    <string name="cafe_sd_pasteis_de_belem">The unique flavour of time-honoured Portuguese sweet making.</string>
+
+    <!-- Website for places for Cafe -->
+    <string name="cafe_web_pasteis_de_belem">http://pasteisdebelem.pt/en/</string>
+
 </resources>

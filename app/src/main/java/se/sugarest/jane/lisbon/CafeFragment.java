@@ -26,7 +26,7 @@ public class CafeFragment extends Fragment {
         //Create an array list of places.
         ArrayList<Place> places = new ArrayList<Place>();
 
-        places.add(new Place(R.string.see_name_praca_do_comercio, R.string.see_sd_praca_do_comercio, R.string.see_web_praca_do_comercio, R.drawable.praca_do_comercio));
+        places.add(new Place(R.string.cafe_name_pasteis_de_belem, R.string.cafe_sd_pasteis_de_belem, R.string.cafe_web_pasteis_de_belem, R.drawable.pasteis_de_belem));
 
         /**
          * Create a PlaceAdapter, whose data source is a list of Places.
