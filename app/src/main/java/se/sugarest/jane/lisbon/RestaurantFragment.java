@@ -13,9 +13,9 @@ import java.util.ArrayList;
  * Created by jane on 17-12-21.
  */
 
-public class EatFragment extends Fragment {
+public class RestaurantFragment extends Fragment {
 
-    public EatFragment() {
+    public RestaurantFragment() {
     }
 
     @Override
@@ -44,7 +44,7 @@ public class EatFragment extends Fragment {
          * Find the ListView object in the view hierarchy of the Activity.
          * There is a ListView with the view ID called list, which is declared in word_list xml layout file.
          */
-        ListView listView = (ListView) rootView.findViewById(R.id.list);
+        ListView listView = rootView.findViewById(R.id.list);
 
         /**
          * Make the ListView use the PlaceAdapter so that the ListView will display list items for each place in the list.

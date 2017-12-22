@@ -4,8 +4,11 @@
     <!-- Category name for places for see [CHAR LIMIT=20] -->
     <string name="category_see">See</string>
 
-    <!-- Category name for places for eat [CHAR LIMIT=20] -->
-    <string name="category_eat">Eat</string>
+    <!-- Category name for places for restaurant [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Category name for places for cafe [CHAR LIMIT=20] -->
+    <string name="category_cafe">Cafe</string>
 
     <!-- Name for places for See -->
     <string name="see_name_praca_do_comercio">Praça do Comércio</string>

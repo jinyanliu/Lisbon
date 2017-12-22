@@ -20,23 +20,27 @@ public class LisbonFragmentPagerAdapter extends android.support.v4.app.FragmentP
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
-            return new SeeFragment();
+            return new RestaurantFragment();
+        } else if (position == 1) {
+            return new CafeFragment();
         } else {
-            return new EatFragment();
+            return new SeeFragment();
         }
     }
 
     @Override
     public int getCount() {
-        return 2;
+        return 3;
     }
 
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
-            return mContext.getString(R.string.category_see);
+            return mContext.getString(R.string.category_restaurant);
+        } else if (position == 1) {
+            return mContext.getString(R.string.category_cafe);
         } else {
-            return mContext.getString(R.string.category_eat);
+            return mContext.getString(R.string.category_see);
         }
     }
 }
