@@ -28,6 +28,8 @@ public class SeeFragment extends Fragment {
 
         places.add(new Place(R.string.see_name_praca_do_comercio, R.string.see_sd_praca_do_comercio, R.string.see_web_praca_do_comercio, R.drawable.praca_do_comercio));
         places.add(new Place(R.string.see_name_universidade_de_coimbra, R.string.see_sd_universidade_de_coimbra, R.string.see_web_universidade_de_coimbra, R.drawable.universidade_de_coimbra));
+        places.add(new Place(R.string.see_name_biblioteca_joanina, R.string.see_sd_biblioteca_joanina, R.string.see_web_biblioteca_joanina, R.drawable.biblioteca_joanina));
+        places.add(new Place(R.string.see_name_livraria_lello, R.string.see_sd_livraria_lello, R.string.see_web_livraria_lello, R.drawable.livraria_lello));
 
         /**
          * Create a PlaceAdapter, whose data source is a list of Places.
