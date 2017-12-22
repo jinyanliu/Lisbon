@@ -22,6 +22,7 @@
     <string name="eat_name_marisqueira_azul">Marisqueira AZUL</string>
     <string name="eat_name_lamei_hot_pot">LaMei HotPot</string>
     <string name="eat_name_portugalia_almirante_reis">Portugália Cervejaria Almirante Reis</string>
+    <string name="eat_name_mr_lin">Mr. Lin</string>
 
     <!-- Short Description for places for Eat -->
     <string name="eat_sd_grelha_do_carmo">Portuguese food and seafood.</string>
@@ -29,6 +30,7 @@
     <string name="eat_sd_marisqueira_azul">Serving fresh shellfish and offering ice-cold draught beer.</string>
     <string name="eat_sd_lamei_hot_pot">Chinese HotPot.</string>
     <string name="eat_sd_portugalia_almirante_reis">Famed beer hall opened in 1925 as an annex of a brewery, serving beers, steaks &amp; seafood.</string>
+    <string name="eat_sd_mr_lin">LanZhou La Mian.</string>
 
     <!-- Website for places for Eat -->
     <string name="eat_web_grelha_do_carmo">https://www.facebook.com/grelhadocarmo/</string>
@@ -36,5 +38,6 @@
     <string name="eat_web_marisqueira_azul">https://www.facebook.com/marisqueiraazul/</string>
     <string name="eat_web_lamei_hot_pot">http://www.lameihotpot.com/</string>
     <string name="eat_web_portugalia_almirante_reis">http://www.portugalia.pt/</string>
+    <string name="eat_web_mr_lin">https://www.facebook.com/Mr-Lin-720818254724936/</string>
 
 </resources>
